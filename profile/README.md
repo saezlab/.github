@@ -7,7 +7,7 @@ analysis and mechanistic modeling of molecular and biomedical data.
 Our goal is to acquire a functional understanding of the deregulation of
 signalling networks in disease and to apply this knowledge to develop novel
 therapeutics. We focus on cancer, auto-immune and fibrotic disease. Towards
-this goal, we integrate big (‘Omics’) data with mechanistic molecular knowledge
+this goal, we integrate big (‘omics’) data with mechanistic molecular knowledge
 into statistical and machine learning methods. To this end, we have developed
 a range of tools in different areas of biomedical research, mainly using the
 programming languages R and Python.
@@ -15,8 +15,8 @@ programming languages R and Python.
 ## Databases
 
 Database knowledge is essential for many of our methods, to this end we
-maintain our own database called [OmniPath][40], combining data from about
-150 original resources. OmniPath consists of a database builder Python
+maintain our own database called **[OmniPath][40],** combining data from about
+150 original resources. **OmniPath** consists of a database builder Python
 module (`pypath`), a public web service, and web service clients for R,
 Python and Cytoscape. Read more about OmniPath in our [paper][41], and
 check out the repos below.
@@ -30,7 +30,7 @@ check out the repos below.
 
 ## Footprint methods
 
-### Functional omics tutorial
+### Functional omics pipeline
 
 We have a [comprehensive tutorial][19] presenting a typical functional omics
 workflow. It uses footprint methods to infer transcription factor and pathway
@@ -40,23 +40,23 @@ the upstream pathways based on these activities.
 ### Functional omics web app
 
 Our functional omics pipeline is also available as a web application called
-FUNKI. Check out the [app here][27], find the code in the [git repo][28],
+**FUNKI.** Check out the [app here][27], find the code in the [git repo][28],
 and read more in our [preprint][29].
 
-### PROGENy
+### Pathway activities
 
-PROGENy stands for Pathway RespOnsive GENe activity inference. It is a
+**PROGENy** stands for Pathway RespOnsive GENe activity inference. It is a
 footprint method to infer activities of canonical signaling pathways based
 on gene expression data. Read more in the repos below and in our [paper][8].
 
 * [R package][6]
 * [Python module][7]
 
-### DoRothEA
+### Transcription factor activities
 
-DoRothEA is a comprehensive gene regulatory network compiled from literature,
-TF binding site prediction, ChIP-Seq and gene expression based inference
-methods. It is also a footprint method to infer transcription factor
+**DoRothEA** is a comprehensive gene regulatory network compiled from
+literature, TF binding site prediction, ChIP-Seq and gene expression based
+inference methods. It is also a footprint method to infer transcription factor
 activities based on gene expression data, using the [VIPER algorithm][11].
 Read more in our [paper][12] and in the repos below. DoRothEA data is also
 available in OmniPath.
@@ -64,19 +64,19 @@ available in OmniPath.
 * [R package][9]
 * [Python module][10]
 
-### decoupleR
+### Functional signatures
 
-decoupleR is a unified framework to extract functional signatures from omics
-data. Read more in our [preprint][15].
+**decoupleR** is a unified framework to extract functional signatures from
+omics data. Read more in our [preprint][15].
 
 * [R package][13]
 * [Python module][14] (not yet public)
 
 ## Causality
 
-### CARNIVAL
+### Causal reasoning
 
-CARNIVAL uses causal reasoning to find the most plausible networks that
+**CARNIVAL** uses causal reasoning to find the most plausible networks that
 explain the activity patterns derived from omics data. See details in our
 [paper][16].
 
@@ -84,9 +84,9 @@ explain the activity patterns derived from omics data. See details in our
 * [CARNIPHAL][18]: R package for running CARNIVAL with phosphoproteomics data
 * Python module: coming soon!
 
-### COSMOS
+### Causal reasoning for multi-omics
 
-COSMOS applies causal reasoning (using CARNIVAL) for the combined analysis
+**COSMOS** applies causal reasoning (using CARNIVAL) for the combined analysis
 of multiple omics data: phosphoproteomics, transcriptomics and metabolomics.
 See more in our [paper][24], the [video tutorial][25] and the repos below.
 
@@ -94,9 +94,9 @@ See more in our [paper][24], the [video tutorial][25] and the repos below.
 
 ### Boolean modeling
 
-CellNOpt creates predictive, mechanistic models of signaling networks using
-logic formalisms (Boolean, fuzzy, or differential equations) based on the
-combination of prior knowledge and omics data. Read our [paper][30] and
+**CellNOpt** creates predictive, mechanistic models of signaling networks
+using logic formalisms (Boolean, fuzzy, or differential equations) based on
+the combination of prior knowledge and omics data. Read our [paper][30] and
 check out the [CellNOpt landing page][31] and the repos below.
 
 * [R package][32]
@@ -111,21 +111,21 @@ and the repo below.
 
 ## Intercellular and spatial signaling
 
-### LIANA
+### Ligand-receptor activities
 
-LIANA is a framework combining a number of ligand-receptor database
+**LIANA** is a framework combining a number of ligand-receptor database
 resources with a number of methods to infer ligand-receptor activities from
 single-cell transcriptomics data. More details in our [preprint][20] and
 the repos below.
 
 * [R package][21]
 
-### MISTy
+### Intercellular spatial modeling
 
-MISTy leverages on explainable machine learning to find relationships between
-the expression of various markers across a number of spatial contexts (views;
-e.g. intrinsic, juxtacrine, paracrine). Read more in our [preprint][22] and
-the repos below.
+**MISTy** leverages on explainable machine learning to find relationships
+between the expression of various markers across a number of spatial contexts
+(views; e.g. intrinsic, juxtacrine, paracrine). Read more in our
+[preprint][22] and the repos below.
 
 * [R package][23]
 
@@ -134,7 +134,7 @@ the repos below.
 ### Enzyme enrichment analysis
 
 The enzyme enrichment analysis is a footprint method for inferring enzyme
-activities from metabolomics data. It is implemented in the OCEAN package.
+activities from metabolomics data. It is implemented in the **OCEAN** package.
 
 * [R package][39]
 
