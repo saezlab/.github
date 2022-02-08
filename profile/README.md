@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/saezlab/ali_saezlab.org/blob/e27b9a9a92788580e3698688f4f07eadec9e2849/assets/images/julio-logo.png" alt="lab logo"/>
-</p>
-
-# Welcome to the github page of the Saez Lab!
+# Welcome to the github page of Saez Lab!
 
 We are the [group of Julio Saez-Rodriguez][1], a research group at the
 Heidelberg University Hospital. We develop software tools for systems level
