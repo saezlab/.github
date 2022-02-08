@@ -102,7 +102,7 @@ check out the [CellNOpt landing page][31] and the repos below.
 * [R package][32]
 * [Miscellaneous packages][33]
 
-PHONEMeS train Boolean models on phosphoproteomics data. See more in the
+**PHONEMeS** train Boolean models on phosphoproteomics data. See more in the
 [PHONEMeS page][34], the papers ([ILP implementation][35], [original][36])
 and the repo below.
 
