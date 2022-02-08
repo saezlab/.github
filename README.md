@@ -1,8 +1,20 @@
+<p align="center">
+  <img src="https://github.com/saezlab/ali_saezlab.org/blob/e27b9a9a92788580e3698688f4f07eadec9e2849/assets/images/julio-logo.png" alt="lab logo"/>
+</p>
+
 # Welcome to the github page of the Saez Lab!
 
 We are the [group of Julio Saez-Rodriguez][1], a research group at the
 Heidelberg University Hospital. We develop software tools for systems level
 analysis and mechanistic modeling of molecular and biomedical data.
+
+Our goal is to acquire a functional understanding of the deregulation of
+signalling networks in disease and to apply this knowledge to develop novel
+therapeutics. We focus on cancer, auto-immune and fibrotic disease. Towards
+this goal, we integrate big (‘Omics’) data with mechanistic molecular knowledge
+into statistical and machine learning methods. To this end, we have developed
+a range of tools in different areas of biomedical research, mainly using the
+programming languages R and Python.
 
 ## Databases
 
