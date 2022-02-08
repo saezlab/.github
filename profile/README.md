@@ -14,8 +14,16 @@ programming languages R and Python.
 
 ## Databases
 
+Database knowledge is essential for many of our methods, to this end we
+maintain our own database called [OmniPath][40], combining data from about
+150 original resources. OmniPath consists of a database builder Python
+module (`pypath`), a public web service, and web service clients for R,
+Python and Cytoscape. Read more about OmniPath in our [paper][41], and
+check out the repos below.
+
 * [`OmnipathR`: R client for the OmniPath web service][2]
 * [Python client for the OmniPath web service][3]
+* [Cytoscape client][42]
 * [`pypath`: database builder Python module for OmniPath][4]
 * [`BioCypher`: graph database (Neo4j) framework for molecular databases][5]
 * [`DoRothEA`: a comprehensive gene regulatory network][9]
@@ -24,8 +32,8 @@ programming languages R and Python.
 
 ### Functional omics tutorial
 
-We have a [comprehensive tutorial][19] for a typical functional omics workflow.
-It uses footprint methods to infer transcription factor and pathway
+We have a [comprehensive tutorial][19] presenting a typical functional omics
+workflow. It uses footprint methods to infer transcription factor and pathway
 activities from transcriptomics data, and uses causal reasoning to infer
 the upstream pathways based on these activities.
 
@@ -169,3 +177,6 @@ activities from metabolomics data. It is implemented in the OCEAN package.
 [37]: https://github.com/saezlab/PHONEMeS-ILP
 [38]: https://github.com/saezlab/PHONEMeS
 [39]: https://github.com/saezlab/ocean
+[40]: https://omnipathdb.org/
+[41]: http://europepmc.org/abstract/MED/33749993
+[42]: https://apps.cytoscape.org/apps/omnipath
