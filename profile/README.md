@@ -64,9 +64,9 @@ available in OmniPath.
 * [R package][9]
 * [Python module][10]
 
-### decouplR
+### decoupleR
 
-decouplR is a unified framework to extract functional signatures from omics
+decoupleR is a unified framework to extract functional signatures from omics
 data. Read more in our [preprint][15].
 
 * [R package][13]
@@ -150,7 +150,7 @@ activities from metabolomics data. It is implemented in the OCEAN package.
 [10]: https://github.com/saezlab/dorothea-py
 [11]: https://www.nature.com/articles/ng.3593
 [12]: https://doi.org/10.1101/gr.240663.118
-[13]: https://github.com/saezlab/decouplR
+[13]: https://github.com/saezlab/decoupleR
 [14]: https://github.com/saezlab/decoupler-py
 [15]: https://doi.org/10.1101/2021.11.04.467271
 [16]: https://www.nature.com/articles/s41540-019-0118-z
