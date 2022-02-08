@@ -24,8 +24,8 @@ check out the repos below.
 * [`OmnipathR`: R client for the OmniPath web service][2]
 * [Python client for the OmniPath web service][3]
 * [Cytoscape client][42]
-* [`pypath`: database builder Python module for OmniPath][4]
-* [`BioCypher`: graph database (Neo4j) framework for molecular databases][5]
+* [`pypath`: database builder Python module for OmniPath][5]
+* [`BioCypher`: graph database (Neo4j) framework for molecular databases][4]
 * [`DoRothEA`: a comprehensive gene regulatory network][9]
 
 ## Footprint methods
