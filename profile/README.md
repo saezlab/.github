@@ -1,4 +1,4 @@
-# Welcome to the github page of [Saez Lab](www.saezlab.org)!
+# Welcome to the github page of [Saez Lab](https://www.saezlab.org)!
 
 We are   a research group at at the Institute for Computational Biomedicine at the Medical Faculty of Heidelberg University and Heidelberg University Hospital. We develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data.
 
