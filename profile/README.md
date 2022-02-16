@@ -1,6 +1,6 @@
 # Welcome to the github page of [Saez Lab](https://www.saezlab.org)!
 
-We are   a research group at at the Institute for Computational Biomedicine at the Medical Faculty of Heidelberg University and Heidelberg University Hospital. We develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data.
+We are a research group at the Institute for Computational Biomedicine at the Medical Faculty of Heidelberg University and Heidelberg University Hospital. We develop software tools for systems level analysis and mechanistic modeling of molecular and biomedical data.
 
 Our goal is to acquire a functional understanding of the deregulation of
 signalling networks in disease and to apply this knowledge to develop novel
