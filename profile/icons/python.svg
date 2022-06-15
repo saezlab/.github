@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 19.058067 19.259949"
+   version="1.1"
+   id="svg53"
+   sodipodi:docname="python.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   width="19.058067"
+   height="19.259949"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-17.084746"
+     inkscape:cy="9.9152542"
+     inkscape:window-width="2558"
+     inkscape:window-height="1416"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g243" />
+  <defs
+     id="defs46">
+    <style
+       id="style44">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #8a8c8f;
+      }
+
+      .cls-3 {
+        fill: #434447;
+      }
+    </style>
+  </defs>
+  <rect
+     id="Rectangle_11548"
+     data-name="Rectangle 11548"
+     class="cls-1"
+     width="24"
+     height="24"
+     x="-2.0005515"
+     y="-2.1745915" />
+  <g
+     id="g243"
+     transform="translate(-2.0005516,-2.1745914)">
+    <g
+       id="g247">
+      <path
+         id="path1948"
+         class="cls-2"
+         d="m 11.409,2.175 a 13.121,13.121 0 0 0 -2.2,0.187 c -1.945,0.344 -2.3,1.063 -2.3,2.389 v 1.751 h 4.6 V 7.086 H 5.195 a 2.869,2.869 0 0 0 -2.871,2.33 8.59,8.59 0 0 0 0,4.67 c 0.327,1.36 1.107,2.33 2.442,2.33 h 1.58 v -2.1 a 2.92,2.92 0 0 1 2.871,-2.855 h 4.592 a 2.315,2.315 0 0 0 2.3,-2.335 V 4.748 a 2.565,2.565 0 0 0 -2.3,-2.389 14.333,14.333 0 0 0 -2.4,-0.184 z M 8.928,3.581 A 0.876,0.876 0 1 1 8.066,4.459 0.872,0.872 0 0 1 8.928,3.581 Z"
+         style="fill:#808080" />
+      <path
+         id="path1950"
+         class="cls-3"
+         d="m 16.678,7.083 v 2.041 a 2.947,2.947 0 0 1 -2.871,2.914 h -4.59 a 2.344,2.344 0 0 0 -2.3,2.335 v 4.376 c 0,1.245 1.083,1.978 2.3,2.335 a 7.688,7.688 0 0 0 4.59,0 c 1.157,-0.335 2.3,-1.009 2.3,-2.335 v -1.752 h -4.59 v -0.584 h 6.888 c 1.336,0 1.833,-0.932 2.3,-2.33 a 7.886,7.886 0 0 0 0,-4.67 c -0.33,-1.33 -0.96,-2.33 -2.3,-2.33 z m -2.582,11.082 a 0.876,0.876 0 1 1 -0.862,0.873 0.867,0.867 0 0 1 0.862,-0.873 z"
+         style="fill:#808080" />
+    </g>
+  </g>
+</svg>
