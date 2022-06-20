@@ -24,6 +24,23 @@ https://github.com/orgs/saezlab/repositories?language=python&type=all).
 
 # Tools
 
+***
+
+**Legend:**&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">
+&nbsp;Home page&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">
+&nbsp;R code&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/python.svg" height="16">
+&nbsp;Python code&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16">
+&nbsp;Package&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">
+&nbsp;Article
+
+***
+
+
 | [<img alt="CARNIVAL" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/carnival.png" width="200"/>](https://saezlab.github.io/CARNIVAL) | [<img alt="CellNOpt" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/cellnopt.png" width="200"/>](https://saezlab.github.io/CellNOptR/) | [<img alt="COSMOS" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/cosmos.png" width="200"/>](https://saezlab.github.io/cosmosR/) | [<img alt="DoRothEA" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/dorothea.png" width="200"/>](https://saezlab.github.io/DoRothEA) |
 | --- | --- | --- | --- |
 | **CARNIVAL** Causal reasoning to explore mechanisms in molecular networks | **CellNOpt** Train logic models of signaling against omics data | **COSMOS** Mechanistic insights across multiple omics | **DoRothEA** Transcription factor activity inference |
