@@ -24,8 +24,6 @@ https://github.com/orgs/saezlab/repositories?language=python&type=all).
 
 # Tools
 
-***
-
 **Legend:**&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">
 &nbsp;Home page&nbsp;&nbsp;&nbsp;
