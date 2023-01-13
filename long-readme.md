@@ -115,7 +115,7 @@ and the repo below.
 
 **LIANA** is a framework combining a number of ligand-receptor database
 resources with a number of methods to infer ligand-receptor activities from
-single-cell transcriptomics data. More details in our [preprint][20] and
+single-cell transcriptomics data. More details in our [manuscript][20] and
 the repos below.
 
 * [R package][21]
@@ -157,7 +157,7 @@ activities from metabolomics data. It is implemented in the **OCEAN** package.
 [17]: https://github.com/saezlab/CARNIVAL
 [18]: https://github.com/saezlab/CARNIPHAL
 [19]: https://github.com/saezlab/transcriptutorial
-[20]: https://www.biorxiv.org/content/10.1101/2021.05.21.445160v1
+[20]: https://www.nature.com/articles/s41467-022-30755-0
 [21]: https://github.com/saezlab/liana
 [22]: https://doi.org/10.1101/2020.05.08.084145
 [23]: https://github.com/saezlab/mistyR
