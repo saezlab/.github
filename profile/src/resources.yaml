@@ -108,8 +108,6 @@ resources:
   DoRothEA:
     main: Transcription factor activity inference
     links:
-    - - home
-      - https://saezlab.github.io/DoRothEA
     - - r
       - https://github.com/saezlab/dorothea
     - - python
