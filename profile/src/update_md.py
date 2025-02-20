@@ -53,7 +53,13 @@ def main():
 
                 res = resources[name]
                 l = dict(res['links'])
-                main_url = l.get('home', l.get('r', l.get('python')))
+
+                for key in ('main', 'home', 'python', 'r'):
+
+                    if main_url := l.get(key):
+
+                        break
+
                 the_logo = f' **{name}** '
 
                 for ext in ('svg', 'png', 'jpeg', 'jpg'):
@@ -75,6 +81,10 @@ def main():
                 the_links = []
 
                 for typ, url in res['links']:
+
+                    if typ == 'main':
+
+                        continue
 
                     icon, *pkg = typ.split(':')
                     pkg = f'<sub><sup> {pkg[0]}</sup></sub>' if pkg else ''
