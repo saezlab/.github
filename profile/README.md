@@ -2,9 +2,9 @@
 
 # Welcome to Saez Lab!
 
-[We are a research group at Heidelberg University.](https://saezlab.org/)
-We develop software tools for systems level analysis and mechanistic modeling
-of molecular and biomedical data.
+[We are a research group](https://saezlab.org/) at Heidelberg University and
+the European Bioinformatics Institute, part of the European Molecular Biology
+Laboratory (EMBL-EBI).
 
 Our goal is to acquire a functional understanding of the deregulation of
 signalling networks in disease and to apply this knowledge to develop novel
