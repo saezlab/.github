@@ -40,7 +40,8 @@ to edit the landing page.
    - The footer of the landing page (anything after the table) can be edited in
      [`profile/src/README.foot.md`](profile/src/README.foot.md)
 4. Run the [`profile/src/update_md.py`](profile/src/update_md.py) script to
-   generate the landing page, i.e. the `profile/README.md` file.
+   generate the landing page, i.e. the `profile/README.md` file:
+   `poetry run profile/src/update_md.py`.
 5. Check by `grip`, the GitHub-identical markdown renderer, whether your
    updates are correct. If you added a new image, it won't be visible yet,
    because the images are referenced by their absolute URLs under `github.com`.
