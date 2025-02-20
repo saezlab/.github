@@ -56,6 +56,8 @@ resources:
   CollecTRI:
     main: Collection of Transcriptional Regulatory Interactions
     links:
+    - - main
+      - https://github.com/saezlab/CollecTRI
     - - r
       - https://github.com/saezlab/CollecTRI
     - - article
@@ -108,10 +110,16 @@ resources:
   DoRothEA:
     main: Transcription factor activity inference
     links:
-    - - r
-      - https://github.com/saezlab/dorothea
+    - - main
+      - https://decoupler-py.readthedocs.io/en/latest/notebooks/dorothea.html
     - - python
       - https://github.com/saezlab/decoupler-py
+    - - docs-py
+      - https://decoupler-py.readthedocs.io/en/latest/notebooks/dorothea.html
+    - - r
+      - https://github.com/saezlab/dorothea
+    - - r
+      - https://r.omnipathdb.org/reference/omnipath-interactions.html
     - - article
       - https://europepmc.org/abstract/MED/31340985
     - - article
