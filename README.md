@@ -10,7 +10,7 @@ to edit the landing page.
 1. Install [poetry](https://python-poetry.org/) if you don't have it already
    installed
 2. Create the `poetry` environment required to run the Python script generating
-   the markdown for the landing page
+   the markdown for the landing page by running `poetry install`
 3. Do your edits:
    - The main text can be edited in
      [`profile/src/README.main.md`](profile/src/README.main.md)
