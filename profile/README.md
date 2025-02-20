@@ -1,5 +1,7 @@
 [<img alt="Saez Lab" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/saezlab.png" align="right" width="180"/>](https://saezlab.org/)
 
+🟢&nbsp;&nbsp;*Members' version*
+
 # Welcome to Saez Lab!
 
 [We are a research group](https://saezlab.org/) at Heidelberg University and
