@@ -80,8 +80,14 @@ resources:
       - https://github.com/saezlab/COSMOS/
     - - package:BIOC
       - https://bioconductor.org/packages/release/bioc/html/cosmosR.html
+    - - python
+      - https://networkcommons.readthedocs.io/en/main/api/networkcommons.data.network.get_cosmos_pkn.html#networkcommons.data.network.get_cosmos_pkn
+    - - r
+      - https://r.omnipathdb.org/articles/cosmos.html
     - - article
       - https://europepmc.org/abstract/MED/33502086
+    - - article
+      - https://www.biorxiv.org/content/10.1101/2024.07.15.603538v2
   Decoupler:
     main: Infer biological activities from omics data using a collection of methods
     links:
