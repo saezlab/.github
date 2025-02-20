@@ -41,7 +41,7 @@ to edit the landing page.
      [`profile/src/README.foot.md`](profile/src/README.foot.md)
 4. Run the [`profile/src/update_md.py`](profile/src/update_md.py) script to
    generate the landing page, i.e. the `profile/README.md` file:
-   `poetry run profile/src/update_md.py`.
+   `poetry run python profile/src/update_md.py`.
 5. Check by `grip`, the GitHub-identical markdown renderer, whether your
    updates are correct. If you added a new image, it won't be visible yet,
    because the images are referenced by their absolute URLs under `github.com`.
@@ -53,5 +53,15 @@ to edit the landing page.
 6. Finally, cross-merge your changes between the
    [`.github`](https://github.com/saezlab/.github) and
    [`.github-private`](https://github.com/saezlab/.github-private), by adding
-   the one you edited to the other one as a new remote, fetching and merging
-   it, and then force push it to the remote.
+   the tone you edited to the other one as a new remote, then pulling from it,
+   it, and pushing to the other. Edit the public version first, push it to
+   GitHub, then navigate to the directory of the private version:
+   ```
+   # adding the new remote required only once:
+   git remote add public git@github.com:saezlab/.github.git
+   git config pull.rebase false
+
+   # after finishing your edits:
+   git pull public main
+   git push origin main
+   ```
