@@ -12,7 +12,7 @@ import yaml
 
 ROOT = pl.Path(__file__).parent.parent
 SOURCE = ROOT / 'snapshot' / 'README.md'
-OUT = ROOT / 'src' / 'resources.yaml'
+OUT = ROOT / 'src' / 'resources_from_md.yaml'
 REMAIN = re.compile(r'\*\*([\w\+]+)\*\* ([-\+,\w\s]+)')
 RELINK = re.compile(
     r'([-\w]+)\.svg.+?>'
