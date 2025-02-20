@@ -69,6 +69,8 @@ resources:
       - https://github.com/saezlab/corneto
     - - package:PYPI
       - https://pypi.org/project/corneto/
+    - - article
+      - https://www.biorxiv.org/content/10.1101/2024.10.26.620390v1
   COSMOS:
     main: Mechanistic insights across multiple omics
     links:
