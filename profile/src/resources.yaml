@@ -1,0 +1,229 @@
+order:
+- BioCypher
+- CARNIVAL
+- CellNOpt
+- CollecTRI
+- CORNETO
+- COSMOS
+- Decoupler
+- DoRothEA
+- DOT
+- LIANA+
+- MetalinksDB
+- MISTy
+- ocEAn
+- OmniPath
+- PHONEMeS
+- PROGENy
+resources:
+  BioCypher:
+    main: A unifying framework for biomedical research knowledge graphs
+    links:
+    - - home
+      - https://biocypher.org/
+    - - python
+      - https://github.com/saezlab/BioCypher
+    - - package:PYPI
+      - https://pypi.org/project/biocypher/
+    - - article
+      - https://zenodo.org/records/10320714
+  CARNIVAL:
+    main: Causal reasoning to explore mechanisms in molecular networks
+    links:
+    - - home
+      - https://saezlab.github.io/CARNIVAL
+    - - r
+      - https://github.com/saezlab/CARNIVAL
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/CARNIVAL.html
+    - - article
+      - https://europepmc.org/abstract/MED/31728204
+  CellNOpt:
+    main: Train logic models of signaling against omics data
+    links:
+    - - home
+      - https://saezlab.github.io/CellNOptR/
+    - - r
+      - https://github.com/saezlab/cellnopt
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/CellNOptR.html
+    - - python
+      - https://github.com/cellnopt/cellnopt
+    - - article
+      - https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa561/5855133
+  CollecTRI:
+    main: Collection of Transcriptional Regulatory Interactions
+    links:
+    - - r
+      - https://github.com/saezlab/CollecTRI
+    - - article
+      - http://europepmc.org/abstract/MED/37843125
+    - - r
+      - https://r.omnipathdb.org/reference/collectri.html
+    - - python
+      - https://github.com/saezlab/omnipath/blob/ab2e17189bbafa2f20621e4890c3da02d4ba6c76/omnipath/_core/requests/interactions/_interactions.py#L237
+  CORNETO:
+    main: Unified framework for network inference problems
+    links:
+    - - python
+      - https://github.com/saezlab/corneto
+    - - package:PYPI
+      - https://pypi.org/project/corneto/
+  COSMOS:
+    main: Mechanistic insights across multiple omics
+    links:
+    - - home
+      - https://saezlab.github.io/cosmosR/
+    - - r
+      - https://github.com/saezlab/COSMOS/
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/cosmosR.html
+    - - article
+      - https://europepmc.org/abstract/MED/33502086
+  Decoupler:
+    main: Infer biological activities from omics data using a collection of methods
+    links:
+    - - home
+      - https://decoupler-py.readthedocs.io/en/latest/index.html
+    - - python
+      - https://github.com/saezlab/decoupler-py
+    - - package:PYPI
+      - https://pypi.org/project/decoupler/
+    - - r
+      - https://github.com/saezlab/decoupleR
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/decoupleR.html
+    - - article
+      - https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac016/6544613?login=false
+  DoRothEA:
+    main: Transcription factor activity inference
+    links:
+    - - home
+      - https://saezlab.github.io/DoRothEA
+    - - r
+      - https://github.com/saezlab/dorothea
+    - - python
+      - https://github.com/saezlab/decoupler-py
+    - - article
+      - https://europepmc.org/abstract/MED/31340985
+    - - article
+      - https://europepmc.org/abstract/MED/29229604
+    - - article
+      - https://europepmc.org/abstract/MED/31525460
+  DOT:
+    main: Optimization framework for transferring cell features from a reference data
+      to spatial omics
+    links:
+    - - home
+      - https://saezlab.github.io/DOT/
+    - - r
+      - https://github.com/saezlab/DOT/
+    - - article
+      - https://arxiv.org/abs/2301.01682
+  LIANA+:
+    main: Framework to infer inter- and intra-cellular signalling from single-cell
+      and spatial omics
+    links:
+    - - home
+      - https://liana-py.readthedocs.io/
+    - - home
+      - https://saezlab.github.io/liana/
+    - - python
+      - https://github.com/saezlab/liana-py
+    - - r
+      - https://github.com/saezlab/liana
+    - - article
+      - https://www.biorxiv.org/content/10.1101/2023.08.19.553863v1
+    - - article
+      - https://www.nature.com/articles/s41467-022-30755-0
+  MetalinksDB:
+    main: Database of protein-metabolite and small molecule ligand-receptor interactions
+    links:
+    - - home
+      - https://metalinks.omnipathdb.org/
+    - - python
+      - https://github.com/saezlab/MetalinksDB/
+    - - article
+      - http://europepmc.org/abstract/PPR/PPR780774
+  MISTy:
+    main: Explainable machine learning models for single-cell, highly multiplexed,
+      spatially resolved data
+    links:
+    - - home
+      - https://saezlab.github.io/mistyR/
+    - - r
+      - https://github.com/saezlab/mistyR/
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/mistyR.html
+    - - article
+      - https://doi.org/10.1186/s13059-022-02663-5
+  ocEAn:
+    main: Metabolic enzyme enrichment analysis
+    links:
+    - - home
+      - https://saezlab.github.io/ocean/
+    - - r
+      - https://github.com/saezlab/ocean
+    - - article
+      - http://europepmc.org/article/MED/36539415
+  OmniPath:
+    main: Networks, pathways, gene annotations from 180+ databases
+    links:
+    - - home
+      - https://omnipathdb.org/
+    - - r
+      - https://github.com/saezlab/OmnipathR
+    - - docs-r
+      - https://r.omnipathdb.org/
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/OmnipathR.html
+    - - python
+      - https://github.com/saezlab/omnipath
+    - - docs-py
+      - https://omnipath.readthedocs.io/
+    - - package:PYPI
+      - https://pypi.org/project/omnipath/
+    - - python
+      - https://github.com/saezlab/pypath
+    - - docs-py
+      - https://pypath.omnipathdb.org/
+    - - package:PYPI
+      - https://pypi.org/project/pypath-omnipath/
+    - - cytoscape
+      - https://github.com/saezlab/Omnipath_Cytoscape
+    - - package:CYTO
+      - https://apps.cytoscape.org/apps/omnipath
+    - - article
+      - https://www.embopress.org/doi/epdf/10.15252/msb.20209923
+    - - article
+      - https://rdcu.be/m53B
+    - - article
+      - https://www.ncbi.nlm.nih.gov/pubmed/31886476
+  PHONEMeS:
+    main: Logic modeling of phosphoproteomics
+    links:
+    - - home
+      - https://saezlab.github.io/PHONEMeS/
+    - - r
+      - https://github.com/saezlab/PHONEMeS
+    - - r
+      - https://github.com/saezlab/PHONEMeS-ILP
+    - - article
+      - https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00958
+    - - article
+      - https://europepmc.org/abstract/MED/26354681
+  PROGENy:
+    main: Activities of canonical pathways from transcriptomics data
+    links:
+    - - home
+      - https://saezlab.github.io/progeny/
+    - - r
+      - https://github.com/saezlab/progeny
+    - - python
+      - https://github.com/saezlab/decoupler-py
+    - - package:BIOC
+      - https://bioconductor.org/packages/release/bioc/html/progeny.html
+    - - article
+      - https://europepmc.org/abstract/MED/29295995
+    - - article
+      - https://europepmc.org/abstract/MED/31525460
