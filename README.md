@@ -8,9 +8,16 @@ to edit the landing page.
 ## How to edit
 
 1. Install [poetry](https://python-poetry.org/) if you don't have it already
-   installed
-2. Create the `poetry` environment required to run the Python script generating
-   the markdown for the landing page by running `poetry install`
+   installed:
+   ```
+   curl -sSL https://install.python-poetry.org | python3 -
+   ```
+2. Navigate into the directory of the public landing page repo (`.github`).
+   If does not exist yet, create the `poetry` environment required to run
+   the Python script generating the markdown for the landing page:
+   ```
+   poetry install
+   ```
 3. Do your edits:
    - The main text can be edited in
      [`profile/src/README.main.md`](profile/src/README.main.md)
@@ -41,19 +48,30 @@ to edit the landing page.
      [`profile/src/README.foot.md`](profile/src/README.foot.md)
 4. Run the [`profile/src/update_md.py`](profile/src/update_md.py) script to
    generate the landing page, i.e. the `profile/README.md` file:
-   `poetry run python profile/src/update_md.py`.
+   ```
+   poetry run python profile/src/update_md.py
+   ```
 5. Check by `grip`, the GitHub-identical markdown renderer, whether your
    updates are correct. If you added a new image, it won't be visible yet,
    because the images are referenced by their absolute URLs under `github.com`.
-   Run `poetry run grip profile/README.md` and open the test server in the
-   browser.
-5. Commit and push your changes. Check if the updates are shown correctly.
-   Don't forget, you see a different page depending on whether you are logged
-   in with an account in the `saezlab` GitHub organization.
+   ```
+   poetry run grip profile/README.md
+   ```
+   Copy the address to your browser to open the test server and see the
+   rendered page.
+5. Commit and push your changes.
+   ```
+   git add -u
+   git commit -m "describe the changes"
+   git push
+   ```
+   Check if the updates are shown correctly.  Don't forget, you see a different
+   page depending on whether you are logged in with an account in the `saezlab`
+   GitHub organization.
 6. Finally, cross-merge your changes between the
    [`.github`](https://github.com/saezlab/.github) and
    [`.github-private`](https://github.com/saezlab/.github-private), by adding
-   the tone you edited to the other one as a new remote, then pulling from it,
+   the one you edited to the other one as a new remote, then pulling from it,
    it, and pushing to the other. Edit the public version first, push it to
    GitHub, then navigate to the directory of the private version:
    ```
