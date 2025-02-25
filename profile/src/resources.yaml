@@ -160,7 +160,7 @@ resources:
     - - python
       - https://github.com/saezlab/MetalinksDB/
     - - article
-      - http://europepmc.org/abstract/PPR/PPR780774
+      - https://academic.oup.com/bib/article/25/4/bbae347/7717953
   MetaProViz:
     main: Metabolomics functional analysis and visualization
     links:
