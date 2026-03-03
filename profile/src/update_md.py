@@ -117,6 +117,32 @@ def main():
         readme.append('|'.join(titles))
         readme.append('|'.join(links))
 
+    other = [n for n in resources if n not in names]
+
+    if other:
+
+        readme.append('\n### Additional tools\n')
+
+        for name in sorted(other):
+
+            res = resources[name]
+            url = None
+
+            for key in ('r', 'python', 'main', 'home'):
+
+                for typ, u in res['links']:
+
+                    if typ == key:
+
+                        url = u
+                        break
+
+                if url:
+
+                    break
+
+            readme.append(f'- **[{name}]({url})** — {res["main"]}')
+
     with open(IN_README_FOOT) as fp:
 
         readme.append('\n' + fp.read())
