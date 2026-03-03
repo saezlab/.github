@@ -14,6 +14,7 @@ order:
 - NetworkCommons
 - ocEAn
 - OmniPath
+- ParTIpy
 - PROGENy
 resources:
   BioCypher:
@@ -251,6 +252,15 @@ resources:
       - https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00958
     - - article
       - https://europepmc.org/abstract/MED/26354681
+  ParTIpy:
+    main: Archetypal analysis to identify functional trade-offs in biological data
+    links:
+    - - python
+      - https://github.com/saezlab/ParTIpy
+    - - package:PYPI
+      - https://pypi.org/project/partipy/
+    - - article
+      - https://biorxiv.org/content/10.1101/2025.09.08.674797v1
   PROGENy:
     main: Activities of canonical pathways from transcriptomics data
     links:

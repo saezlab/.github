@@ -37,7 +37,7 @@ def main():
         readme = [fp.read() + '\n']
 
     names = [n for n in names if n in resources]
-    names = names + [None] * (len(names) % NCOL)
+    names = names + [None] * (-len(names) % NCOL)
 
     for i in range(len(names) // NCOL):
 
