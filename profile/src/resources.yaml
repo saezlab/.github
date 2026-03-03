@@ -8,6 +8,7 @@ order:
 - Decoupler
 - DoRothEA
 - DOT
+- GRETA
 - LIANA+
 - MetalinksDB
 - MetaProViz
@@ -136,6 +137,13 @@ resources:
       - https://github.com/saezlab/DOT/
     - - article
       - https://arxiv.org/abs/2301.01682
+  GRETA:
+    main: Snakemake pipeline for benchmarking multimodal gene regulatory network inference methods
+    links:
+    - - python
+      - https://github.com/saezlab/greta
+    - - article
+      - https://doi.org/10.1101/2024.12.20.629764
   LIANA+:
     main: Framework to infer inter- and intra-cellular signalling from single-cell
       and spatial omics
