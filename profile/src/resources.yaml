@@ -266,3 +266,8 @@ resources:
       - https://europepmc.org/abstract/MED/29295995
     - - article
       - https://europepmc.org/abstract/MED/31525460
+  ScAPE:
+    main: Single-cell Analysis of Perturbational Effects
+    links:
+    - - python
+      - https://github.com/scapeML/scape

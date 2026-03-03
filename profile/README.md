@@ -55,5 +55,6 @@ https://github.com/orgs/saezlab/repositories?language=python&type=all).
 - **[CARNIVAL](https://github.com/saezlab/CARNIVAL)** — Causal reasoning to explore mechanisms in molecular networks
 - **[DoRothEA](https://github.com/saezlab/dorothea)** — Transcription factor activity inference
 - **[PHONEMeS](https://github.com/saezlab/PHONEMeS)** — Logic modeling of phosphoproteomics
+- **[ScAPE](https://github.com/scapeML/scape)** — Single-cell Analysis of Perturbational Effects
 
  **More resources:** See them in the [*Resources*](https://saezlab.org/#resources) section of our webpage. **Docker:** A container with all our tools [is available](https://github.com/saezlab/saezverse).
