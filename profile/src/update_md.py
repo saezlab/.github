@@ -141,7 +141,7 @@ def main():
 
                     break
 
-            readme.append(f'- **[{name}]({url})** — {res["main"]}')
+            readme.append(f'- **[{name}]({url})** - {res["main"]}')
 
     with open(IN_README_FOOT) as fp:
 
