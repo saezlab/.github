@@ -9,7 +9,7 @@ Laboratory (EMBL-EBI).
 Our goal is to acquire a functional understanding of the deregulation of
 signalling networks in disease and to apply this knowledge to develop novel
 therapeutics. We focus on cancer, heart failure, auto-immune and fibrotic
-disease. Towards this goal, we integrate big (‘omics’) data with mechanistic
+disease. Towards this goal, we integrate big ("omics") data with mechanistic
 molecular knowledge into statistical and machine learning methods. To this end,
 we have developed a range of tools in different areas of biomedical research,
 mainly using the programming languages [R](
