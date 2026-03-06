@@ -281,3 +281,87 @@ resources:
     links:
     - - python
       - https://github.com/scapeML/scape
+  BioChatter:
+    main: A platform for the biomedical application of Large Language Models
+    links:
+    - - home
+      - https://biocypher.github.io/biochatter
+    - - python
+      - https://github.com/biocypher/biochatter
+    - - article
+      - https://arxiv.org/abs/2305.06488
+  BioServices:
+    main: Python package to access Bioinformatics Web Services
+    links:
+    - - python
+      - https://github.com/cokelaer/bioservices
+    - - package:PYPI
+      - https://pypi.python.org/pypi/bioservices
+    - - article
+      - http://europepmc.org/abstract/MED/24064416
+  Birewire:
+    main: R package for the randomisation of bipartite graphs
+    links:
+    - - home
+      - https://saezlab.github.io/BiRewire/
+    - - r
+      - https://github.com/saezlab/BiRewire
+    - - article
+      - http://europepmc.org/abstract/MED/27998275
+  DREAMTools:
+    main: Code used in the scoring of DREAM challenges
+    links:
+    - - home
+      - http://dreamtools.readthedocs.io/en/latest/
+    - - python
+      - https://github.com/dreamtools/dreamtools
+    - - article
+      - http://europepmc.org/abstract/MED/27134723
+  DrugVsDisease:
+    main: R/Cytoscape pipeline to compare drug and disease gene expression profiles
+    links:
+    - - home
+      - https://saezlab.github.io/DrugVsDisease/
+    - - r
+      - https://github.com/saezlab/DrugVsDisease
+    - - article
+      - http://europepmc.org/abstract/MED/23129297
+  GDSCTools:
+    main: Python library dedicated to the study of pharmacogenomic relationships
+    links:
+    - - home
+      - http://gdsctools.readthedocs.io/en/master/
+    - - python
+      - https://github.com/CancerRxGene/gdsctools
+    - - article
+      - http://europepmc.org/abstract/MED/29186349
+  Kasumi:
+    main: Identification of spatially localized neighborhoods of intra- and intercellular relationships from spatial omics
+    links:
+    - - python
+      - https://github.com/jtanevski/kasumi
+    - - article
+      - https://www.nature.com/articles/s41467-025-59448-0
+  lipyd:
+    main: Python module for lipidomics LC MS/MS data analysis
+    links:
+    - - home
+      - https://saezlab.github.io/lipyd
+    - - python
+      - https://github.com/saezlab/lipyd
+  MEIGO:
+    main: Global optimization toolbox including metaheuristic and Bayesian methods
+    links:
+    - - home
+      - http://gingproc.iim.csic.es/meigo.html
+    - - article
+      - http://europepmc.org/abstract/MED/24885957
+  SLAPenrich:
+    main: R package to identify pathway-level enrichments of genetic alterations
+    links:
+    - - home
+      - https://saezlab.github.io/SLAPenrich/
+    - - r
+      - https://github.com/saezlab/SLAPenrich
+    - - article
+      - http://europepmc.org/abstract/MED/29713020

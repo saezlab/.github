@@ -55,9 +55,19 @@ https://github.com/orgs/saezlab/repositories?language=python&type=all).
 
 ### Additional tools
 
+- **[BioChatter](https://github.com/biocypher/biochatter)** - A platform for the biomedical application of Large Language Models
+- **[BioServices](https://github.com/cokelaer/bioservices)** - Python package to access Bioinformatics Web Services
+- **[Birewire](https://github.com/saezlab/BiRewire)** - R package for the randomisation of bipartite graphs
 - **[CARNIVAL](https://github.com/saezlab/CARNIVAL)** - Causal reasoning to explore mechanisms in molecular networks
+- **[DREAMTools](https://github.com/dreamtools/dreamtools)** - Code used in the scoring of DREAM challenges
 - **[DoRothEA](https://github.com/saezlab/dorothea)** - Transcription factor activity inference
+- **[DrugVsDisease](https://github.com/saezlab/DrugVsDisease)** - R/Cytoscape pipeline to compare drug and disease gene expression profiles
+- **[GDSCTools](https://github.com/CancerRxGene/gdsctools)** - Python library dedicated to the study of pharmacogenomic relationships
+- **[Kasumi](https://github.com/jtanevski/kasumi)** - Identification of spatially localized neighborhoods of intra- and intercellular relationships from spatial omics
+- **[MEIGO](http://gingproc.iim.csic.es/meigo.html)** - Global optimization toolbox including metaheuristic and Bayesian methods
 - **[PHONEMeS](https://github.com/saezlab/PHONEMeS)** - Logic modeling of phosphoproteomics
+- **[SLAPenrich](https://github.com/saezlab/SLAPenrich)** - R package to identify pathway-level enrichments of genetic alterations
 - **[ScAPE](https://github.com/scapeML/scape)** - Single-cell Analysis of Perturbational Effects
+- **[lipyd](https://github.com/saezlab/lipyd)** - Python module for lipidomics LC MS/MS data analysis
 
 
