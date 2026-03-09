@@ -8,7 +8,6 @@ order:
 - DOT
 - GRETA
 - LIANA+
-- MetalinksDB
 - MetaProViz
 - MISTy
 - NetworkCommons
@@ -155,7 +154,7 @@ resources:
     - - r
       - https://github.com/saezlab/liana
     - - article
-      - https://www.biorxiv.org/content/10.1101/2023.08.19.553863v1
+      - https://www.nature.com/articles/s41556-024-01469-w
     - - article
       - https://www.nature.com/articles/s41467-022-30755-0
   MetalinksDB:
